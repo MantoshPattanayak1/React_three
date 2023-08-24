@@ -1,6 +1,6 @@
 import React from 'react';
 import Parking from './Parking.jsx'
-import Gr_locations from './Gr_Locations.jsx'
+import Gr_locations from './Gr_locations.jsx'
 import Clip_Segment from './Clip_Segment.jsx'
 function Live() {
   return (

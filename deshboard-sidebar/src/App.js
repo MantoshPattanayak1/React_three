@@ -30,7 +30,15 @@ const App = () => {
           <Route path="/LogOut" element={<LogOut/>}/>
         </Routes>
       </Sidebar>
-    
+    {/* <Nav>
+    <Routes>
+    <Route path="/Crowd" element={<Crowd />} />
+          <Route path="/Fire" element={<Dashboard />} />
+          <Route path="/Wrong" element={<Alerts />} />
+          <Route path="/AirAlerts" element={<Live />} />
+          <Route path="/WaterAlerts" element={<Logs/>} />
+     </Routes>
+    </Nav> */}
     </BrowserRouter>
     </div>
     </div>
